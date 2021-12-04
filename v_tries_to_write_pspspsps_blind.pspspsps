@@ -1,0 +1,9 @@
+psp psp psp psp psp psp psp psp psp input buffer of 8 characters
+pspsp pspsp pspsp pspsp pspsp pspsp pspsp pspsp pspsp pspsp increment ten times
+pspspsp loop while input not null
+	pspsp pspsp pspsp pspsp pspsp pspsp pspsp pspsp pspsp pspsp increment ten times
+	pspspspsp show input
+	psps move left
+	pspspspsps read input
+	pspsps pspsps pspsps pspsps pspsps pspsps pspsps pspsps pspsps pspsps decrement ten times
+pspspsps end of loop
